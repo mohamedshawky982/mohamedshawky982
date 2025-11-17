@@ -17,20 +17,38 @@ Focused on delivering smooth user experiences, architecting modular systems, and
 
 ## 🛠️ Tech Stack
 
-### **Mobile Development**
-- React Native · TypeScript · JavaScript  
-- React Navigation · Zustand / Redux · JSI · TurboModules · Codegen  
-- Reanimated · Gesture Handler  
+### **Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
 
-### **Native Development**
-- **iOS:** Swift · SwiftUI · UIKit · Live Activities · Widgets  
-- **Android:** Kotlin · Java · Services · Intents  
-- Native Modules for both platforms  
+### **Mobile Architecture**
+<p>
+  <img src="https://img.shields.io/badge/JSI-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TurboModules-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Codegen-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reanimated-000000?style=for-the-badge&logo=react&logoColor=white" />
+</p>
 
-### **Backend & Tools** 
-- Firebase · REST · GraphQL  
-- React Query · Apollo Client  
-- Git · CI/CD · Fastlane  
+### **Tools & Services** 
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GraphQL-E535AB?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apollo%20Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white" />
+</p>
+
+### **DevOps & Others**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
 ---
 
