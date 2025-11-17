@@ -27,11 +27,10 @@ Focused on delivering smooth user experiences, architecting modular systems, and
 - **Android:** Kotlin · Java · Services · Intents  
 - Native Modules for both platforms  
 
-### **Backend & Tools**
-- Node.js · Express  
+### **Backend & Tools** 
 - Firebase · REST · GraphQL  
 - React Query · Apollo Client  
-- Git · CI/CD · Fastlane · Docker  
+- Git · CI/CD · Fastlane  
 
 ---
 
@@ -41,7 +40,6 @@ Focused on delivering smooth user experiences, architecting modular systems, and
 Lead developer on a production app featuring:  
 - Real-time calls (Jitsi SDK + CallKeep)  
 - iOS Live Activity with QR code  
-- Offline-first architecture  
 - Smooth animations & high-performance lists  
 
 ### 🗺️ **Location-Based App**  
