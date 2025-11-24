@@ -72,13 +72,13 @@ Lead developer on a production app featuring:
 
 ---
 
-## 📊 GitHub Stats  
+<!-- ## 📊 GitHub Stats  
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedshawky982&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedshawky982&layout=compact&theme=tokyonight" />
 </p>
 
----
+--- -->
 
 ## 🌐 Connect With Me  
 <p>
